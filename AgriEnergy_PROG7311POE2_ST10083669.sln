@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgriEnergy_PROG7311POE2_ST10083669", "AgriEnergy_PROG7311POE2_ST10083669\AgriEnergy_PROG7311POE2_ST10083669.csproj", "{8A676379-69A0-4626-B949-70391DE1204F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A676379-69A0-4626-B949-70391DE1204F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A676379-69A0-4626-B949-70391DE1204F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A676379-69A0-4626-B949-70391DE1204F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A676379-69A0-4626-B949-70391DE1204F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F55652B9-EEFD-487C-9F91-FE044AB58994}
+	EndGlobalSection
+EndGlobal

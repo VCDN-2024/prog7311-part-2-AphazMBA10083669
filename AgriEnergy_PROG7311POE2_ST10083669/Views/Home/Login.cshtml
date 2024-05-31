@@ -1,0 +1,51 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/views/_Layout.cshtml";
+ 
+}
+<!-- login form -->
+<section class="w3l-login">
+	<div class="overlay">
+		<div class="wrapper">
+			<div class="logo">
+				<a class="brand-logo" href="index.html">AgriEnergy login form</a>
+			</div>
+			<div class="form-section">
+				<h3>Login</h3>
+				<h6>To continue with Us</h6>
+				<form action="#" method="post" class="signin-form">
+					<div class="form-input">
+						<input type="text" name="Username" placeholder="Username" required="" autofocus>
+					</div>
+					<div class="form-input">
+						<input type="password" name="password" placeholder="Password" required="">
+					</div>
+					<label class="check-remaind">
+						<input type="checkbox">
+						<span class="checkmark"></span>
+						<p class="remember">Remember me</p>
+					</label>
+					<button type="submit" class="btn btn-primary theme-button mt-4">Log in</button>
+					<div class="new-signup">
+						<a href="#reload" class="signuplink">Forgot username or password?</a>
+					</div>
+				</form>
+				<p class="signup">Don’t have account yet? <a href="#signup.html" class="signuplink">Sign Up</a></p>
+			</div>
+		</div>
+	</div>
+	<div id='stars'></div>
+	<div id='stars2'></div>
+	<div id='stars3'></div>
+
+	<!-- copyright -->
+	<div class="copy-right">
+		<p>&copy; 2020 Snow Login Form. All rights reserved.</p>
+	</div>
+	<!-- //copyright -->
+</section>
+
+<!-- /login form -->
