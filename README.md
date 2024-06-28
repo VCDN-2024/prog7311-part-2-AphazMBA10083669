@@ -44,6 +44,16 @@ To access and use the database preload, dowload SSMS(SQL Server Management Studi
 Link for downloading:
 - [SQL Server Management Studio] (https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16#download-ssms)
 
+
+## Steps to Install and Run the App
+
+- Step 1: Download the Apps listed in the above Instalation column above.
+- Step 2: Once they are fully installed and woring on the user laptop/computer, download the project zipfolder from this repo which has the AgriEnergy platform with the database query file inside and extract everithing.
+- Step 3: Open SSMS, connect the locan server, then take the query from the extrcted folder and paste the query code in, then run it
+- Step 4: Once the database is created tables and data are filled, Open Visual Studio and open the now downloaded Agri-Evergy project.
+- Step 5: Now once the project is opened in Visual, go to Server Explorer option and connect your local database and your App
+- Step 6: Run the App on IIE Express, then enjoy yor application
+
 ## Acknowledgements
 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
