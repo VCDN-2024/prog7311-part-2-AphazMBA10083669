@@ -38,6 +38,12 @@ Install and view my-project with Visual Studio 2022 Community for free
 
 Link for downloding:
 - [Microsoft Visual Studio] (https://visualstudio.microsoft.com/downloads/)
+
+To access and use the database preload, dowload SSMS(SQL Server Management Studio) for free
+
+Link for downloading:
+- [SQL Server Management Studio] (https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16#download-ssms)
+
 ## Acknowledgements
 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
